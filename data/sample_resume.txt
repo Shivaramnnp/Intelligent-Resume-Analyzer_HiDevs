@@ -1,0 +1,9 @@
+Name: Shivaram
+
+Email: shivaram@gmail.com
+
+Skills: Python, AI, Android, Firebase
+
+Experience: 2
+
+Education: B.Tech AI & ML

@@ -1,9 +1,42 @@
 # Intelligent Resume Analyzer
 
-This project is automatically generated.
+## Overview
+A Python-based application that automates resume screening by parsing resumes, matching candidates to job requirements, and generating detailed analysis reports.
 
-## Installation
+## Features
+- Resume Parsing
+- Skill Extraction
+- Candidate Matching
+- Match Score Calculation
+- Hiring Recommendation
+- JSON Export
+- Report Generation
 
-```sh
-pip install -r requirements.txt
-```
+## Technologies Used
+- Python
+- JSON
+- Regular Expressions (Regex)
+
+## Project Structure
+- parser.py
+- matcher.py
+- reporter.py
+- file_manager.py
+- main.py
+
+## Future Improvements
+- PDF Resume Support
+- AI-Powered Recommendations
+- Streamlit Web Interface
+- Fuzzy Skill Matching
+
+## Author
+Nunugonda Shivaram
+
+
+
+## How to Run
+
+```bash
+
+python3 src/main.py
